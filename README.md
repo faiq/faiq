@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#11](undefined) in [nutanix-cloud-native/cluster-api-provider-aws](https://github.com/nutanix-cloud-native/cluster-api-provider-aws)
-2. 💪 Opened PR [#11](undefined) in [nutanix-cloud-native/cluster-api-provider-aws](https://github.com/nutanix-cloud-native/cluster-api-provider-aws)
-3. ❌ Labeled PR [#10](undefined) in [nutanix-cloud-native/cluster-api-provider-aws](https://github.com/nutanix-cloud-native/cluster-api-provider-aws)
-4. ❌ Labeled PR [#9](undefined) in [nutanix-cloud-native/cluster-api-provider-aws](https://github.com/nutanix-cloud-native/cluster-api-provider-aws)
-5. 💪 Opened PR [#10](undefined) in [nutanix-cloud-native/cluster-api-provider-aws](https://github.com/nutanix-cloud-native/cluster-api-provider-aws)
+1. 🗣 Commented on [#5700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5700#issuecomment-3583542202) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#13](undefined) in [nutanix-cloud-native/cluster-api](https://github.com/nutanix-cloud-native/cluster-api)
+3. 💪 Opened PR [#12](undefined) in [nutanix-cloud-native/cluster-api](https://github.com/nutanix-cloud-native/cluster-api)
+4. 🗣 Commented on [#5700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5700#issuecomment-3582892919) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5700#issuecomment-3582582259) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
