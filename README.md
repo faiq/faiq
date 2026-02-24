@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4505](https://github.com/mesosphere/kommander-applications/pull/4505) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
-2. 🎉 Merged PR [#4506](https://github.com/mesosphere/kommander-applications/pull/4506) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
-3. 💪 Opened PR [#4506](https://github.com/mesosphere/kommander-applications/pull/4506) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
-4. 💪 Opened PR [#4505](https://github.com/mesosphere/kommander-applications/pull/4505) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
-5. 🎉 Merged PR [#18](https://github.com/nutanix-cloud-native/cluster-api-provider-aws/pull/18) in [nutanix-cloud-native/cluster-api-provider-aws](https://github.com/nutanix-cloud-native/cluster-api-provider-aws)
+1. 🗣 Commented on [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777#issuecomment-3946050247) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#4505](https://github.com/mesosphere/kommander-applications/pull/4505) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
+3. 🎉 Merged PR [#4506](https://github.com/mesosphere/kommander-applications/pull/4506) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
+4. 💪 Opened PR [#4506](https://github.com/mesosphere/kommander-applications/pull/4506) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
+5. 💪 Opened PR [#4505](https://github.com/mesosphere/kommander-applications/pull/4505) in [mesosphere/kommander-applications](https://github.com/mesosphere/kommander-applications)
 <!--END_SECTION:activity-->
