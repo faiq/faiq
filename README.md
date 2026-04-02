@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5857](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5857#issuecomment-4160233978) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#10](https://github.com/clebs/cluster-api-provider-aws/pull/10) in [clebs/cluster-api-provider-aws](https://github.com/clebs/cluster-api-provider-aws)
-3. 🗣 Commented on [#10](https://github.com/clebs/cluster-api-provider-aws/pull/10#issuecomment-4152651920) in [clebs/cluster-api-provider-aws](https://github.com/clebs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5917](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5917#issuecomment-4151954127) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5917](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5917#issuecomment-4151189604) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❌ Closed PR [#5922](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5922) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#11](https://github.com/clebs/cluster-api-provider-aws/pull/11) in [clebs/cluster-api-provider-aws](https://github.com/clebs/cluster-api-provider-aws)
+3. 🗣 Commented on [#11](https://github.com/clebs/cluster-api-provider-aws/pull/11#issuecomment-4167544623) in [clebs/cluster-api-provider-aws](https://github.com/clebs/cluster-api-provider-aws)
+4. 💪 Opened PR [#11](https://github.com/clebs/cluster-api-provider-aws/pull/11) in [clebs/cluster-api-provider-aws](https://github.com/clebs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5922](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5922#issuecomment-4167531847) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
